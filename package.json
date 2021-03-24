@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "class-names": "^1.0.0",
+    "immer": "^9.0.1",
+    "react-icons": "^4.2.0"
+  }
+}
